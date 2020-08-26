@@ -1,0 +1,30 @@
+#+TITLE: Case Notes and Questions
+#+AUTHOR: Matt Brigida, Ph.D.
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+
+* Concepts to Review/Highlight:
+** Goal of the firm
+The relationship between the goal of the firm and US state laws of incorporation.  Brief note of laws in other countries.
+** Ownership of the firm
+** Agency Problem and its resolutions through the Takeover (market for corporate control)
+** Du Pont Identity
+The ROE is mentioned throughout the case as a performance metric.  Show the drivers of ROE through the Du Pont identity.  
+
+* Homework Questions (discuss next class)
+1. What was Jerry's IPO method and what effect did it have on:
+    - The amount of capital raised.
+    - The control of the firm.
+2. What do you think of the interview on page 42? Would this make you more or less confident to invest in Ben and Jerry's?  Possibly consider this question in relation to the following anecdote on page 42.
+3. How do we want management to increase ROE, and alternatively what method is irrelevant?
+4. What do you think is the correlation, if any, between "caring capitalism" and the stock price?  Consider the mission statement on page 43.  
+5.  Why did Ben and Jerry's have differential voting rights? 
+6.  What was the effect of the corporate charter restrictions (page 44).  Do they make changes easier or more difficult? Do they increase or decrease the founders' (Ben and Jerry) control.
+7. Thoughts on 1998 amendments to Vermont Incorporation?  Would you be more/less likely to locate your business in Vermont?  
+
+* Case Question
+
+#+BEGIN_EXAMPLE
+Pros/cons of each offer, which would you choose (this is the formal case analysis)?
+#+END_EXAMPLE
+
+
