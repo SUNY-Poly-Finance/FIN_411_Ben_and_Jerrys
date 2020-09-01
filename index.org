@@ -40,3 +40,15 @@ Pros/cons of each offer, which would you choose (this is the formal case analysi
 #+END_EXAMPLE
 
 * Case Question
+
+  
+#+BEGIN_SRC python :results output
+
+new_BJ_price = 47.2 * 1.06
+
+print("$", round(new_BJ_price, 2))
+
+#+END_SRC
+
+#+RESULTS:
+: $ 50.03
