@@ -26,11 +26,17 @@ $$ROE = (Profit\ Margin)(Total\ Asset\ Turnover)(Equity\ Multiplier)$$
 6.  What was the effect of the corporate charter restrictions (page 44).  Do they make changes easier or more difficult? Do they increase or decrease the founders' (Ben and Jerry) control.
 7. Thoughts on 1998 amendments to Vermont Incorporation?  Would you be more/less likely to locate your business in Vermont?  
 8. The text alludes to "Ben and Jerry's declining financial performance" on page 1.  Do you think the company's performance is poor/declining? 
+9.  In the conclusion Harry Morgan says ROE is 7%, and that is "lousy by any measure".  Is it really lousy and does that mean the firm should be sold?
+10.  pg 39, "declining financial performance triggered a number of takeover offers".  pg 45 /The Offers/ section says they pursued a joint venture due to competition, and when this didn't work Ben and Jerry's got takeover offers.  Do these sections agree?
+   
+* Method
 
-* Case Question
+You can approximate how much Ben and Jerry's is worth if it were a subsidiary of another firm by applying the other firms P/E multiple to Ben and Jerrys' earnings.  Note, Ben and Jerry's shareholders don't get this value---they get the acquisition price.  What it does give you is an idea of how undervalued Ben and Jerry's presently is.  This can be evidence of mismanagement---or evidence of nothing.
+
+* Case Analysis
 
 #+BEGIN_EXAMPLE
 Pros/cons of each offer, which would you choose (this is the formal case analysis)?
 #+END_EXAMPLE
 
-
+* Case Question
