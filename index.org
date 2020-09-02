@@ -33,18 +33,9 @@ $$ROE = (Profit\ Margin)(Total\ Asset\ Turnover)(Equity\ Multiplier)$$
 
 You can approximate how much Ben and Jerry's is worth if it were a subsidiary of another firm by applying the other firms P/E multiple to Ben and Jerrys' earnings.  Note, Ben and Jerry's shareholders don't get this value---they get the acquisition price.  What it does give you is an idea of how undervalued Ben and Jerry's presently is.  This can be evidence of mismanagement---or evidence of nothing.
 
-* Case Analysis
-
-#+BEGIN_EXAMPLE
-Pros/cons of each offer, which would you choose (this is the formal case analysis)?
-#+END_EXAMPLE
-
-* Case Question
-
-  
 #+BEGIN_SRC python :results output
 
-new_BJ_price = 47.2 * 1.06
+new_BJ_price = 47.2 * 1.06 ## Dryers P/E * BJ EPS
 
 print("$", round(new_BJ_price, 2))
 
@@ -52,3 +43,14 @@ print("$", round(new_BJ_price, 2))
 
 #+RESULTS:
 : $ 50.03
+
+
+* Case Analysis
+  
+#+BEGIN_EXAMPLE
+Pros/cons of each offer, which would you choose (this is the formal case analysis)?
+#+END_EXAMPLE
+
+* Case Question
+
+  
