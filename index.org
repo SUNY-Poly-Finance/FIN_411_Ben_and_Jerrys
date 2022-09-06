@@ -1,6 +1,8 @@
 #+TITLE: Case Notes and Questions
-#+AUTHOR: Matt Brigida, Ph.D.
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+#+author: Matt Brigida, Ph.D.
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
+
 
 * Concepts to Review/Highlight:
 ** Goal of the firm
